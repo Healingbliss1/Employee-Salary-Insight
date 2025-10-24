@@ -1,5 +1,7 @@
 # 📊 Employers Data Analysis
 
+![Image](https://github.com/user-attachments/assets/e62258a6-91ad-4807-952a-5bf5c8813155)
+
 ### 💡 Project Overview
 This project explores and analyzes employee-related data to uncover key insights about salary patterns, working hours, education levels, work modes, and gender differences across occupations.  
 The goal is to understand the factors influencing employees’ earnings and work trends using Excel as the main analytical tool.
