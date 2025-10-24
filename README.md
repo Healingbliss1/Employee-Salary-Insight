@@ -1,4 +1,4 @@
-# 📊 Employers Data Analysis
+# 📊 Employees Data Analysis
 
 ![Image](https://github.com/user-attachments/assets/e62258a6-91ad-4807-952a-5bf5c8813155)
 
